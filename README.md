@@ -1,9 +1,9 @@
 # Hi, I'm Hasnae 👋
 
-🎓 **2nd-year AI Engineering student at ENIAD, Morocco**
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
-💻 Background in **Web & Mobile Application Development**
-🐍 Currently strengthening my skills in **Python, Machine Learning and Deep Learning**
+🎓 **2nd-year AI Engineering student at ENIAD, Morocco**</br>
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**</br>
+💻 Background in **Web & Mobile Application Development**</br>
+🐍 Currently strengthening my skills in **Python, Machine Learning and Deep Learning**</br>
 
 ### 🛠️ Skills & Technologies
 
